@@ -1,0 +1,14 @@
+.biru {
+  color: blue;
+}
+.merah {
+  color: darkred;
+}
+
+.kotak {
+  display: inline-block;
+  margin: 30px;
+  width: 100px;
+  height: 200px;
+  background-color: darksalmon;
+}
